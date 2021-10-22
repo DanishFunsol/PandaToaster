@@ -1,0 +1,3 @@
+include ':PandaToastify'
+include ':app'
+rootProject.name = "PandaToaster"
